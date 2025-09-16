@@ -1,3 +1,5 @@
+// Chapitre 1 – Variables, types de données et opérateurs
+
 let nombre1 = 10;
 let nombre2 = 5;
 let somme = nombre1 + nombre2;
